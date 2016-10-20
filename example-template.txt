@@ -1,0 +1,5 @@
+Hello {{name}},
+
+We received your payment of {{currencySymbol}}{{amount}} on {{date}}.
+
+Thanks!
